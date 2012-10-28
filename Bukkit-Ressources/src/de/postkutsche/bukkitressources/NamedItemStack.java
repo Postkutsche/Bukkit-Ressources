@@ -1,4 +1,4 @@
-package de.postkutsche.testing;
+package de.postkutsche.bukkitressources;
 
 import net.minecraft.server.NBTTagCompound;
 
