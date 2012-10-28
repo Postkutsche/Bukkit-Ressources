@@ -1,4 +1,4 @@
-package de.postkutsche.testing;
+package de.postkutsche.bukkitressources;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
