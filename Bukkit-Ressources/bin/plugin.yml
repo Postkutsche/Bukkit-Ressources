@@ -1,0 +1,9 @@
+name: Testing
+version: 0.1
+author: Postkutsche
+description: Bukkit 1.4.2 Tests
+
+main: de.postkutsche.testing.Testing
+
+commands:
+  test:
